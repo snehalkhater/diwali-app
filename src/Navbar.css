@@ -1,0 +1,39 @@
+.navbar {
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    height: auto;
+    border-bottom: 1px solid red;
+}
+.sub-navbar {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.logo {
+    height: 40px;
+}
+.logo-name {
+    font-size: 25px;
+    color: rgb(64, 33, 11);
+}
+
+.menu-bar {
+    display: flex;
+    align-items: center;
+
+
+}
+.menu {
+    color: rgb(64, 33, 11);
+    text-decoration: none;
+    margin: 15px;
+    font-size: 20px;
+}
+.menu:hover {
+    color: white;
+    transition: 0.3s;
+
+}
