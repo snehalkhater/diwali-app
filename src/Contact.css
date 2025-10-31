@@ -2,8 +2,21 @@ body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
+  background-color: #f8d1b7;
 }
 h1{
+  margin-top: 10%;
+  font-size: 50px;
     color: orange;
+    justify-content: center;
+    display: flex;
+}
+p{
+  display: flex;
+  font-size: 20px;
+    color: #d63384;
+    text-decoration: none;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
 }
